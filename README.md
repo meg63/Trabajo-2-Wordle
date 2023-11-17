@@ -5,3 +5,5 @@ Trabajo 2 Wordle Estructura de Datos
 -Jonatan Estiven Sanchez Vargas
 -Jhon W. Lopez Sepulveda
 -Yamid Andres Campo Gallego
+* Nota: El py y el text deben estar en la misma carpeta en el momento de ejecutar el código.
+* :)
